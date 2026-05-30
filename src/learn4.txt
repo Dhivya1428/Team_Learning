@@ -1,0 +1,6 @@
+Hey Dhivya, Don't Lose your hope, Always be bold, everything will be fine soon....
+
+first check what branch you are in - git branch
+switch to existing branch - git checkout -----existing branch name ----
+create new branch - git checkout -b ----new branch name---
+
